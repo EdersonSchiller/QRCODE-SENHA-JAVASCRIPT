@@ -1,4 +1,4 @@
-# 🔐 10-PROJETO-QRCODE
+# 🔐 PROJETO-QRCODE e PASSWORD
 
 CLI desenvolvido em **Node.js** para:
 
@@ -51,5 +51,6 @@ Projeto pensado como **base para soluções de e-commerce**, permitindo estender
 
 Este projeto é distribuído sob a MIT License.
 Sinta-se livre para usar, modificar e compartilhar.
+
 
 
